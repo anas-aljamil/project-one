@@ -1,2 +1,2 @@
-create home page
+
 create setting page
